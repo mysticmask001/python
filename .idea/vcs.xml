@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Basics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Hannah/Basic Hannah" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Hannah/Text Hannah" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Praise/Basic Praise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Praise/Text Praise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../morning class" vcs="Git" />
+  </component>
+</project>
