@@ -1,11 +1,6 @@
-math = 50
+math = 30
 eng = 50
 
-if math > eng:
+if not math > eng:
     print('math is greater than eng')
 
-elif math < eng:
-    print("math is less than eng")
-
-else:
-    print('math is equals eng')
