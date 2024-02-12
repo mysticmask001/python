@@ -8,6 +8,11 @@
 #
 # prof()
 
+<<<<<<< HEAD
+# parameters = arguments
+
+=======
+>>>>>>> origin/master
 def subtract(maths, eng):
     return maths - eng
 
