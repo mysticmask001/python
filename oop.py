@@ -27,19 +27,31 @@
 
 
 
+# data structures
+# sets {}
+# dictionary {}
+# tuples ()
+# lists []
+
 class People:
-    def __init__(self, name, age, gender, nationality):
-        self.name = name
-        self.age = age
-        self.gender = gender
-        self.nationality = nationality
+    # def __init__(self, name, age, gender, nationality):
+    #     self.name = name
+    #     self.age = age
+    #     self.gender = gender
+    #     self.nationality = nationality
+    name = "John"
+    age = 78
 
+pl = People()
 
-person1 = People("John", 19, "Male", "Swiss")
-person2 = People("Felicity", 18, "Female", "Russian")
-
-print(person2.name, person2.age, person2.gender, person2.nationality)
-print(person1.name, person1.age, person1.gender, person1.nationality)
+print(pl.name, pl.age)
+#
+# person1 = People("John", 19, "male", "Swiss")
+# person2 = People("Felicity", 18, "Female", "Russian")
+#
+# print(person2.name, person2.age, person2.gender, person2.nationality)
+# print(f"Hi, my name is {person1.name} and I am {person1.age}, a {person1.gender} who is a {person1.nationality}")
+#
 
 
 
